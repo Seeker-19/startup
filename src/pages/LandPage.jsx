@@ -28,7 +28,7 @@ const LandPage = () => {
           </div>
           <div className="lg:text-2xl text-sm text-gray-400 px-4 text-center">
             <p>
-              Frame.io is one central hub that lets you share media, track
+              Vizio is one central hub that lets you share media, track
               feedback,
             </p>
             <p>

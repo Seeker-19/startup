@@ -14,7 +14,7 @@ const Image = () => {
             >
               For years, creative teams have used a patchwork of tools for
               collaboration, work in-progress reviews, file transfers, and
-              approvals. Frame.io brings everything — and everyone — together in
+              approvals. Vizio brings everything — and everyone — together in
               one place.
             </p>
           </div>
@@ -32,7 +32,7 @@ const Image = () => {
             Keep everyone on the same page
           </div>
           <div className="lg:text-2xl text-gray-400 mt-6 lg:px-28">
-            Frame.io makes feedback more specific and actionable, so you can
+            Vizio makes feedback more specific and actionable, so you can
             reduce review cycles and speed up approvals. Less mind-reading, more
             delivering.
           </div>
